@@ -1,18 +1,14 @@
 # Nmap
 
 ## Description
-Briefly explain what this task is about and what you aimed to achieve.
+Objective: Learn to discover open ports on devices in your local network to understand network exposure.
+Tools: Nmap (must), Wireshark (optional)
 
 ## Files Included
 - script.py: Main script/code file
 - scan_result.txt: Nmap scan result output
 - screenshot.png: Screenshot of terminal/output (if applicable)
-- dataset.csv: (Include if any data was used)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
 
 ##Tools & Libraries Used
   Nmap 7.97
