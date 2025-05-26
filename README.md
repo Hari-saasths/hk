@@ -2,12 +2,12 @@
 
 ## Description
 Objective: Learn to discover open ports on devices in your local network to understand network exposure.
-Tools: Nmap (must), Wireshark (optional)
+Tools: Nmap
 
 ## Files Included
 - script.py: Main script/code file
 - scan_result.txt: Nmap scan result output
-- screenshot.png: Screenshot of terminal/output (if applicable)
+- screenshot.png: Screenshot of terminal/output
 
 
 ##Tools & Libraries Used
